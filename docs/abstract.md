@@ -28,6 +28,4 @@ A test malware sample exhibiting keylogging and webhook-based exfiltration behav
 
 A validated, tool-based detection methodology capable of identifying webhook-based exfiltration with high confidence, generalizable across multiple webhook platforms (Discord, Telegram, Slack), deployable without specialized infrastructure, and documented with reproducible traffic signatures for practical SOC/blue-team use.
 
-## Team Member Details
 
-Syed Zabiullah Rehan Mehdi — [Roll Number]
