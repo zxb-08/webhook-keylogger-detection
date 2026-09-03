@@ -2,7 +2,6 @@
 
 **Detecting webhook-based keylogger exfiltration using network traffic analysis.**
 
-B.E. CSE (IoT) — III Year Mini Project
 
 ## Overview
 
