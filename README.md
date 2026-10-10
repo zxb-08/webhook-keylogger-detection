@@ -50,4 +50,4 @@ Bortolameotti et al., *"DECANTeR: DEteCtion of Anomalous outbouNd HTTP TRaffic b
 
 ## Author
 
-Syed Zabiullah Rehan Mehdi
+Syed Zabiullah Mehdi
